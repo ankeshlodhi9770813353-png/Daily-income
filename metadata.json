@@ -1,0 +1,6 @@
+{
+  "name": "ANKESH DAILY ROUTINE",
+  "description": "एक संपूर्ण Daily Routine Planner, Task Tracker, Reminder और Performance Analytics Android ऐप",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

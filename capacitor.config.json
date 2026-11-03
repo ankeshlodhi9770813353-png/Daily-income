@@ -1,0 +1,15 @@
+{
+  "appId": "com.ankesh.dailyroutine",
+  "appName": "ANKESH DAILY ROUTINE",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 1500,
+      "backgroundColor": "#1E40AF"
+    }
+  }
+}
